@@ -1,0 +1,562 @@
+[20-Feb-2017 04:04:48 Etc/GMT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kritvpbp/public_html/vendor/application/controllers/Admindashboard.php on line 37
+[20-Feb-2017 04:07:57 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/kritvpbp/public_html/vendor/application/controllers/Vendorlogin.php on line 100
+[20-Feb-2017 04:17:22 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/kritvpbp/public_html/vendor/application/controllers/Vendorlogin.php on line 100
+[20-Feb-2017 04:49:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/kritvpbp/public_html/vendor/application/views/admin_dashboard.php on line 376
+[20-Feb-2017 05:08:33 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/kritvpbp/public_html/vendor/application/views/admin_dashboard.php on line 547
+[20-Feb-2017 07:06:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '']);die();' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/kritvpbp/public_html/vendor/application/controllers/Admindashboard.php on line 159
+[21-Feb-2017 05:08:02 Etc/GMT] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/kritvpbp/public_html/vendor/application/views/form_sample1.php on line 386
+[21-Feb-2017 05:09:35 Etc/GMT] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/kritvpbp/public_html/vendor/application/views/form_sample1.php on line 386
+[21-Feb-2017 05:26:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/kritvpbp/public_html/vendor/application/views/form_sample1.php on line 367
+[21-Feb-2017 05:26:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/kritvpbp/public_html/vendor/application/views/form_sample1.php on line 367
+[21-Feb-2017 05:58:51 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/kritvpbp/public_html/vendor/application/views/admin_dashboard.php on line 399
+[21-Feb-2017 06:02:25 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/kritvpbp/public_html/vendor/application/views/vendorlist_view.php on line 229
+[21-Feb-2017 06:28:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '']) && $edit_user_details1['' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/kritvpbp/public_html/vendor/application/views/form_sample1.php on line 368
+[21-Feb-2017 06:28:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '']) && $edit_user_details1['' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/kritvpbp/public_html/vendor/application/views/form_sample1.php on line 368
+[21-Feb-2017 06:28:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '']) && $edit_user_details1['' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/kritvpbp/public_html/vendor/application/views/form_sample1.php on line 368
+[21-Feb-2017 06:29:07 Etc/GMT] PHP Parse error:  syntax error, unexpected ''] == '' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/kritvpbp/public_html/vendor/application/views/form_sample1.php on line 368
+[22-Feb-2017 13:05:47 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 377
+[22-Feb-2017 13:06:16 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 377
+[22-Feb-2017 13:06:41 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 377
+[23-Feb-2017 03:41:42 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 394
+[23-Feb-2017 03:41:56 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 394
+[23-Feb-2017 03:42:56 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 395
+[23-Feb-2017 03:43:14 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 396
+[23-Feb-2017 03:43:32 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 392
+[23-Feb-2017 03:43:51 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 380
+[23-Feb-2017 03:44:14 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 392
+[23-Feb-2017 03:44:19 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 392
+[23-Feb-2017 03:45:48 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 418
+[23-Feb-2017 03:50:07 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 391
+[23-Feb-2017 03:50:17 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 391
+[23-Feb-2017 06:13:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/kritvpbp/public_html/vendor/application/views/form_sample1.php on line 411
+[23-Feb-2017 06:16:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/kritvpbp/public_html/vendor/application/views/form_sample1.php on line 411
+[23-Feb-2017 06:25:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home/kritvpbp/public_html/vendor/application/views/form_sample1.php on line 569
+[27-Feb-2017 09:06:06 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Demo' (T_STRING) in /home/kritvpbp/public_html/vendor/application/controllers/Vendorlist.php on line 219
+[28-Feb-2017 05:25:52 Etc/GMT] PHP Parse error:  syntax error, unexpected 'base_url' (T_STRING), expecting ',' or ';' in /home/kritvpbp/public_html/vendor/application/views/welcome.php on line 18
+[28-Feb-2017 05:59:24 Etc/GMT] PHP Fatal error:  Call to a member function set_mailtype() on a non-object in /home/kritvpbp/public_html/vendor/application/controllers/Vendorlist.php on line 214
+[28-Feb-2017 11:08:31 Etc/GMT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/kritvpbp/public_html/vendor/application/views/form_sample1.php on line 522
+[28-Feb-2017 11:09:52 Etc/GMT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/kritvpbp/public_html/vendor/application/views/form_sample1.php on line 522
+[28-Feb-2017 11:10:46 Etc/GMT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/kritvpbp/public_html/vendor/application/views/form_sample1.php on line 522
+[28-Feb-2017 11:55:12 Etc/GMT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/kritvpbp/public_html/vendor/application/views/form_sample1.php on line 955
+[01-Mar-2017 06:56:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/kritvpbp/public_html/vendor/application/controllers/Vendorlogin.php on line 36
+[01-Mar-2017 13:25:33 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 140
+[01-Mar-2017 13:25:33 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 140
+[01-Mar-2017 13:25:33 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 140
+[01-Mar-2017 13:25:33 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 140
+[01-Mar-2017 13:25:37 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/kritvpbp/public_html/vendor/application/controllers/Vendordata.php on line 140
+[04-Mar-2017 12:10:27 Etc/GMT] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/kritvpbp/public_html/vendor/application/controllers/Forgetpassword.php on line 67
+[23-Mar-2017 07:34:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/kritvpbp/public_html/vendor/application/views/customer_details.php on line 1058
+[23-Mar-2017 10:10:57 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::row_array() in /home/kritvpbp/public_html/vendor/application/controllers/Admindashboard.php on line 110
+[23-Mar-2017 10:12:19 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/kritvpbp/public_html/vendor/application/controllers/Admindashboard.php on line 110
+[23-Mar-2017 10:16:29 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::get() in /home/kritvpbp/public_html/vendor/application/controllers/Admindashboard.php on line 109
+[23-Mar-2017 10:36:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/kritvpbp/public_html/vendor/application/views/admin_dashboard.php on line 214
+[23-Mar-2017 10:58:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/kritvpbp/public_html/vendor/application/views/admin_dashboard.php on line 262
+[23-Mar-2017 10:59:15 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/kritvpbp/public_html/vendor/application/views/admin_dashboard.php on line 262
+[23-Mar-2017 11:56:12 Etc/GMT] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 345620480 bytes) in /home/kritvpbp/public_html/vendor/system/core/Exceptions.php on line 186
+[23-Mar-2017 11:58:37 Etc/GMT] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 345620480 bytes) in /home/kritvpbp/public_html/vendor/system/core/Exceptions.php on line 186
+[23-Mar-2017 11:59:58 Etc/GMT] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 344784896 bytes) in /home/kritvpbp/public_html/vendor/system/core/Exceptions.php on line 186
+[23-Mar-2017 12:00:11 Etc/GMT] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 360185856 bytes) in /home/kritvpbp/public_html/vendor/system/core/Exceptions.php on line 186
+[23-Mar-2017 12:03:55 Etc/GMT] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 354353152 bytes) in /home/kritvpbp/public_html/vendor/system/core/Exceptions.php on line 186
+[24-Mar-2017 01:25:49 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/kritvpbp/public_html/customer/application/views/header_view.php on line 104
+[24-Mar-2017 01:48:38 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/kritvpbp/public_html/customer/application/views/admin_dashboard.php on line 200
+[24-Mar-2017 01:48:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/kritvpbp/public_html/customer/application/views/admin_dashboard.php on line 200
+[24-Mar-2017 01:49:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/kritvpbp/public_html/customer/application/views/admin_dashboard.php on line 201
+[24-Mar-2017 01:50:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/kritvpbp/public_html/customer/application/views/admin_dashboard.php on line 201
+[24-Mar-2017 01:51:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '$customer_pending_data_get' (T_VARIABLE) in /home/kritvpbp/public_html/customer/application/views/admin_dashboard.php on line 201
+[24-Mar-2017 01:52:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '$customer_pending_data_get' (T_VARIABLE) in /home/kritvpbp/public_html/customer/application/views/admin_dashboard.php on line 201
+[24-Mar-2017 01:52:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '$customer_pending_data_get' (T_VARIABLE) in /home/kritvpbp/public_html/customer/application/views/admin_dashboard.php on line 201
+[24-Mar-2017 02:00:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/kritvpbp/public_html/customer/application/views/admin_dashboard.php on line 279
+[24-Mar-2017 08:18:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[24-Mar-2017 08:19:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[24-Mar-2017 08:20:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 04:12:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 04:14:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 78 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 04:40:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 05:06:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 05:09:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 05:11:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 07:38:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 07:46:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 07:49:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 07:49:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 07:50:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 07:51:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 07:53:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 07:55:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 07:56:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 07:57:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 07:59:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 08:00:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 08:01:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 592
+[27-Mar-2017 08:06:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 08:08:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 08:08:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 38 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 08:10:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 09:14:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 09:15:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 09:16:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 09:17:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 09:19:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 17 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 09:20:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 13 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 09:20:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 13 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 09:20:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 13 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 09:22:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 17 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 09:25:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 92 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 09:59:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 92 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 10:00:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 10:08:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 13 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 10:11:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 10:12:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 10:13:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 10:14:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[27-Mar-2017 10:16:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 676288 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Mar-2017 10:17:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 53
+[27-Mar-2017 10:17:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2048 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 10:18:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 53
+[27-Mar-2017 10:18:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 49152 bytes) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 206
+[27-Mar-2017 10:21:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 10:23:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 10:24:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 92 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 10:29:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 10:29:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 10:29:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 10:30:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 10:31:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 10:45:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 26738688 bytes) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 49
+[27-Mar-2017 12:42:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 81 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 12:44:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 95 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Mar-2017 12:53:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 939
+[27-Mar-2017 12:59:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1280
+[27-Mar-2017 13:09:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1505
+[27-Mar-2017 13:28:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1630
+[29-Mar-2017 10:46:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2048 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[29-Mar-2017 10:46:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2048 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[29-Mar-2017 10:46:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2048 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[29-Mar-2017 10:47:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2048 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[29-Mar-2017 10:51:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 90 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[29-Mar-2017 10:51:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 95 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[03-Apr-2017 08:13:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2675548 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 08:16:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2674975 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 08:40:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2674975 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 08:40:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2674975 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 08:55:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2675549 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 08:56:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2675549 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 09:00:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2675549 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 09:12:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2675549 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 09:22:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 86 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[03-Apr-2017 11:12:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[03-Apr-2017 11:56:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2682126 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 11:59:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2682126 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:00:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2682126 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:01:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2682125 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:02:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2682125 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:05:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2682126 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:06:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2682126 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:08:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2649934 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:09:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2649934 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:09:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2634471 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:09:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2634471 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:13:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2682126 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:13:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2682126 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:17:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2682126 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:18:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2682126 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:19:50 UTC] PHP Fatal error:  Call to a member function where() on null in /home/vvf/public_html/customer/application/controllers/Admindashboard.php on line 52
+[03-Apr-2017 12:19:53 UTC] PHP Fatal error:  Call to a member function where() on null in /home/vvf/public_html/customer/application/controllers/Admindashboard.php on line 52
+[03-Apr-2017 12:20:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2682126 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:22:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2682126 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:22:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2692214 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:22:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2692214 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:22:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2692214 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:25:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2692214 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:25:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2692214 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:25:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2692214 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-Apr-2017 12:57:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 86 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[04-Apr-2017 04:21:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3087690 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 04:26:14 UTC] PHP Parse error:  syntax error, unexpected ''where Vendor_id = ? and Sub_P' (T_ENCAPSED_AND_WHITESPACE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1852
+[04-Apr-2017 04:26:15 UTC] PHP Parse error:  syntax error, unexpected ''where Vendor_id = ? and Sub_P' (T_ENCAPSED_AND_WHITESPACE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1852
+[04-Apr-2017 04:26:15 UTC] PHP Parse error:  syntax error, unexpected ''where Vendor_id = ? and Sub_P' (T_ENCAPSED_AND_WHITESPACE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1852
+[04-Apr-2017 04:26:15 UTC] PHP Parse error:  syntax error, unexpected ''where Vendor_id = ? and Sub_P' (T_ENCAPSED_AND_WHITESPACE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1852
+[04-Apr-2017 04:26:15 UTC] PHP Parse error:  syntax error, unexpected ''where Vendor_id = ? and Sub_P' (T_ENCAPSED_AND_WHITESPACE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1852
+[04-Apr-2017 04:26:24 UTC] PHP Parse error:  syntax error, unexpected ''where Vendor_id = ? and Sub_P' (T_ENCAPSED_AND_WHITESPACE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1852
+[04-Apr-2017 04:26:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3087690 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 04:29:19 UTC] PHP Parse error:  syntax error, unexpected ''where Vendor_id = ? and Sub_P' (T_ENCAPSED_AND_WHITESPACE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1852
+[04-Apr-2017 04:29:35 UTC] PHP Parse error:  syntax error, unexpected ''where Vendor_id = ? and Sub_P' (T_ENCAPSED_AND_WHITESPACE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1852
+[04-Apr-2017 04:29:59 UTC] PHP Parse error:  syntax error, unexpected ''where Vendor_id = ? and Sub_P' (T_ENCAPSED_AND_WHITESPACE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1852
+[04-Apr-2017 04:31:46 UTC] PHP Parse error:  syntax error, unexpected ''where Vendor_id = ? and Sub_P' (T_ENCAPSED_AND_WHITESPACE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1808
+[04-Apr-2017 04:42:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3087838 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 05:41:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3087838 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 06:00:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3087838 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 06:00:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3087838 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 06:05:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3087838 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 06:08:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3087838 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 09:36:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[04-Apr-2017 09:38:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1418549 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[04-Apr-2017 11:40:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3159513 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 11:45:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2997891 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 11:48:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3123790 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:33:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[04-Apr-2017 12:35:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2362469 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:36:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2362469 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:36:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2362469 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:37:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2362483 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:38:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2362483 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:53:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:53:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:53:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:53:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:53:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:53:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:53:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:53:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:54:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:54:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:54:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:54:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:54:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:54:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:54:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:54:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:54:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:54:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 12:54:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2364586 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:14:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:15:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:15:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:15:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:15:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:15:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:15:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:16:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:16:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:16:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:16:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:16:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:16:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:16:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:16:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:16:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:16:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:16:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:16:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:16:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:16:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:17:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:17:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:17:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:17:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-Apr-2017 13:17:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3170044 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[05-Apr-2017 04:11:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3168963 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[05-Apr-2017 04:19:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1517
+[05-Apr-2017 04:20:06 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1560
+[05-Apr-2017 04:21:46 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1560
+[05-Apr-2017 04:22:42 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1560
+[05-Apr-2017 04:23:05 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1560
+[05-Apr-2017 04:23:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1560
+[05-Apr-2017 04:23:45 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1560
+[05-Apr-2017 04:24:25 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1560
+[05-Apr-2017 04:25:02 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1560
+[05-Apr-2017 04:25:06 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1560
+[05-Apr-2017 04:27:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3168963 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[05-Apr-2017 04:29:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3168963 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[05-Apr-2017 04:29:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3168963 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[05-Apr-2017 04:30:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3168963 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[05-Apr-2017 04:31:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2370885 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[05-Apr-2017 04:31:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2370885 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[05-Apr-2017 04:33:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2370885 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[05-Apr-2017 04:33:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2370885 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[05-Apr-2017 04:38:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2372996 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[05-Apr-2017 05:05:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2372996 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[05-Apr-2017 06:42:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 04:48:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 04:49:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 04:49:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 05:45:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 05:45:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 05:48:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 05:59:37 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/vvf/public_html/customer/application/controllers/Admindashboard.php on line 12
+[06-Apr-2017 06:22:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 07:39:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 07:39:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 08:55:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 09:35:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 09:39:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 09:41:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 11:05:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 11:21:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 11:23:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 11:26:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 11:28:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[06-Apr-2017 12:14:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[10-Apr-2017 04:57:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1405139 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[11-Apr-2017 06:54:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1313917 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 367
+[11-Apr-2017 06:54:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1313917 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 367
+[11-Apr-2017 06:58:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1313917 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 367
+[11-Apr-2017 06:58:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1313917 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 367
+[11-Apr-2017 07:06:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1313213 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[15-Apr-2017 08:52:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1955
+[15-Apr-2017 08:54:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1955
+[15-Apr-2017 10:39:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 2349
+[19-Apr-2017 07:13:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[19-Apr-2017 07:13:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[19-Apr-2017 07:14:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[19-Apr-2017 07:22:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[19-Apr-2017 07:24:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[19-Apr-2017 07:25:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2621440 bytes) in /home/vvf/public_html/customer/application/views/vendorlist_view2.php on line 175
+[19-Apr-2017 07:25:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2621440 bytes) in /home/vvf/public_html/customer/application/views/vendorlist_view2.php on line 176
+[19-Apr-2017 07:27:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[19-Apr-2017 07:27:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[19-Apr-2017 07:28:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[19-Apr-2017 07:28:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[19-Apr-2017 07:28:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1 bytes) in /home/vvf/public_html/customer/system/database/DB_driver.php on line 300
+[19-Apr-2017 07:29:24 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/vvf/public_html/customer/application/views/vendorlist_view2.php on line 179
+[19-Apr-2017 07:29:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2621440 bytes) in /home/vvf/public_html/customer/application/views/vendorlist_view2.php on line 179
+[19-Apr-2017 07:31:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2359296 bytes) in /home/vvf/public_html/customer/system/core/Exceptions.php on line 186
+[19-Apr-2017 07:35:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2359296 bytes) in /home/vvf/public_html/customer/system/core/Exceptions.php on line 186
+[19-Apr-2017 07:37:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2103026 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 07:37:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2103026 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 07:38:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2103026 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 07:39:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2103026 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 07:40:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101762 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 07:42:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101646 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 07:43:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101652 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 07:45:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101659 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 07:46:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 07:47:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 07:49:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 07:50:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 08:00:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 08:04:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 08:05:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 08:06:21 UTC] PHP Fatal error:  Call to undefined function Spreadsheet_Excel_Reader() in /home/vvf/public_html/customer/application/models/csv_model.php on line 16
+[19-Apr-2017 08:09:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 08:12:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 08:13:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 08:14:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 08:16:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 08:20:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 08:21:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2103501 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 08:26:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 08:32:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 08:34:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 08:34:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2103813 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 09:11:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101650 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 09:11:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2103888 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[19-Apr-2017 09:14:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101641 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[24-Apr-2017 06:08:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3550721 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[24-Apr-2017 06:09:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3550707 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[24-Apr-2017 06:48:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3550721 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[24-Apr-2017 08:55:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3552989 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[24-Apr-2017 08:57:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3552990 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[24-Apr-2017 08:58:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3552996 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[24-Apr-2017 10:24:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3555256 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[24-Apr-2017 10:25:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3555268 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[24-Apr-2017 10:26:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3555256 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[24-Apr-2017 10:27:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3555257 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[24-Apr-2017 10:31:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3555257 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[25-Apr-2017 04:34:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3557501 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[25-Apr-2017 04:46:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3557484 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[25-Apr-2017 04:46:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3557505 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[25-Apr-2017 04:46:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3557518 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[25-Apr-2017 04:46:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3557516 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[25-Apr-2017 04:46:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3557511 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[25-Apr-2017 04:46:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3557509 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[25-Apr-2017 04:46:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3557501 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[25-Apr-2017 04:46:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3557492 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[25-Apr-2017 04:46:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3557492 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[25-Apr-2017 04:46:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3557505 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[25-Apr-2017 04:46:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3557494 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[25-Apr-2017 04:46:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3557501 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[25-Apr-2017 06:52:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3562024 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[25-Apr-2017 07:06:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3562024 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[25-Apr-2017 07:11:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3562029 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[26-Apr-2017 09:35:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3033168 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[26-Apr-2017 09:36:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3033168 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[26-Apr-2017 09:45:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3033218 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[26-Apr-2017 11:02:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101641 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[26-Apr-2017 11:03:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101641 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[26-Apr-2017 11:04:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101641 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[26-Apr-2017 11:04:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 83 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[26-Apr-2017 12:09:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2101641 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[26-Apr-2017 12:11:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[26-Apr-2017 12:11:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[26-Apr-2017 12:26:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[26-Apr-2017 12:26:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[26-Apr-2017 12:26:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[27-Apr-2017 09:11:13 UTC] PHP Fatal error:  Call to undefined function exploade() in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1372
+[27-Apr-2017 09:11:52 UTC] PHP Fatal error:  Call to undefined function exploade() in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1372
+[27-Apr-2017 09:12:23 UTC] PHP Fatal error:  Call to undefined function exploade() in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1372
+[27-Apr-2017 09:52:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 1384
+[27-Apr-2017 12:04:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3351718 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:05:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3351718 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:06:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3351122 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:08:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3790735 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:08:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3790735 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:10:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3351122 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:11:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3351122 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:11:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3351122 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:14:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3425707 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:16:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3346422 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:19:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3409787 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:19:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3378141 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:20:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3375008 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:20:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3443487 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:20:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3423601 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:20:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3423601 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:21:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3361429 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:21:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3349578 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:22:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3348971 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:25:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3348971 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:26:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3348388 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:26:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3346516 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:26:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3345844 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:27:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3345844 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:27:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3345844 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:27:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3345844 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:27:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3345844 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:27:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3345844 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:27:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3345844 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:27:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3345844 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:27:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3345844 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:27:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3345844 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:27:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3387080 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:27:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3387080 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:28:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3386992 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:29:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3374605 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:29:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3362202 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:29:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3350969 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:30:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3350351 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:30:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3349724 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:31:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3452866 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:32:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3390752 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:33:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3408536 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:33:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3378141 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:33:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3346422 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:34:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3346422 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:35:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3390752 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:35:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3390752 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:35:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3390752 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:35:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3390752 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:35:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3390752 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:36:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3390752 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:39:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3362541 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:39:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3473350 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:59:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3473350 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:59:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3654039 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 12:59:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3609709 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[27-Apr-2017 13:00:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3427859 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[03-May-2017 11:47:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2983387 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-May-2017 04:23:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2985659 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-May-2017 04:25:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2985659 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-May-2017 07:31:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2990175 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-May-2017 07:32:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2990175 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-May-2017 13:57:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2994744 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-May-2017 13:58:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2994744 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-May-2017 13:58:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2994744 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-May-2017 13:58:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2994744 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[04-May-2017 13:59:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2994744 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[05-May-2017 03:57:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2994744 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[05-May-2017 04:00:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2994744 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[05-May-2017 04:49:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 83 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[05-May-2017 04:50:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 95 bytes) in /home/vvf/public_html/customer/system/database/drivers/mysql/mysql_result.php on line 153
+[05-May-2017 04:56:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3062255 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[05-May-2017 04:59:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4127846 bytes) in /home/vvf/public_html/customer/system/core/Loader.php on line 863
+[10-May-2017 08:12:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2778980 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 08:12:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2778980 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 08:12:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2778980 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 08:13:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2778980 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 09:27:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2781258 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 09:28:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2781258 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 09:28:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2781258 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 09:31:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2781258 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 10:14:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2783530 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 10:14:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2783530 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 10:14:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2783530 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 10:36:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 10:37:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 10:37:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 10:57:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 10:59:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 10:59:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 11:07:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 11:07:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 11:16:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 13:49:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 13:50:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[10-May-2017 13:50:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 04:12:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 05:34:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 05:34:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 05:35:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 05:35:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 05:37:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 05:38:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 05:39:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 05:42:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 05:56:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 06:06:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 06:56:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2782239 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 09:17:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2784128 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 09:18:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2784128 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 09:58:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2786378 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 09:58:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2786378 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 11:01:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2786378 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 11:03:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2786378 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 11:04:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2786378 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 12:52:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2790045 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 12:55:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2790045 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 12:56:12 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vvf/public_html/customer/application/views/admin_dashboard.php on line 50
+[11-May-2017 12:58:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2790045 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[11-May-2017 12:58:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2790045 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[12-May-2017 04:54:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2790045 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[12-May-2017 04:55:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2790045 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[12-May-2017 04:55:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2790045 bytes) in /home/vvf/public_html/customer/system/core/Output.php on line 165
+[13-Jun-2017 07:29:07 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:30:01 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:30:01 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:30:01 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:30:01 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:30:01 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:30:01 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:30:01 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:30:01 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:30:02 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:30:02 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:30:02 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:30:02 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:30:02 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:30:03 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:31:07 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:31:11 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:31:45 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:31:53 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:31:55 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:33:02 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:33:03 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:33:04 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:33:10 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:34:30 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 2
+[13-Jun-2017 07:36:24 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Demo.php on line 2
+[13-Jun-2017 07:36:33 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Demo.php on line 2
+[13-Jun-2017 07:36:51 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Demo.php on line 2
+[13-Jun-2017 07:37:11 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Demo.php on line 2
+[13-Jun-2017 07:37:13 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Demo.php on line 2
+[13-Jun-2017 07:37:42 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Demo.php on line 2
+[13-Jun-2017 07:37:50 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Demo.php on line 2
+[13-Jun-2017 07:40:30 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Demo.php on line 2
+[13-Jun-2017 07:40:31 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Demo.php on line 2
+[13-Jun-2017 07:40:33 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Demo.php on line 2
+[13-Jun-2017 07:41:48 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Demo.php on line 2
+[13-Jun-2017 07:42:12 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Demo.php on line 2
+[13-Jun-2017 07:42:20 UTC] PHP Fatal error:  Class 'Controller' not found in /home/vvf/public_html/customer/application/controllers/Demo.php on line 2
+[13-Jun-2017 07:48:01 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 25
+[13-Jun-2017 07:49:55 UTC] PHP Fatal error:  Call to a member function from() on null in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 28
+[14-Jun-2017 06:43:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 303
+[14-Jun-2017 06:43:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 303
+[14-Jun-2017 06:47:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 303
+[14-Jun-2017 06:47:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 303
+[14-Jun-2017 06:47:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 303
+[14-Jun-2017 06:47:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 303
+[14-Jun-2017 06:48:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 303
+[14-Jun-2017 06:48:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 303
+[14-Jun-2017 06:48:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 304
+[14-Jun-2017 06:49:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vvf/public_html/customer/application/controllers/Emaildemo.php on line 304
