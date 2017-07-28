@@ -33,7 +33,7 @@ label{
 
 <div class="container">
   <div class="logo">
-<img src="http://52.172.210.251/images/Logo.png" alt="VVF" style="max-width: 8%;">
+<img src="http://52.172.210.251/customer/Logo.png" alt="VVF" style="max-width: 8%;">
 <hr >
   </div>
 Dear Customer,<br>
