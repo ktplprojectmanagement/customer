@@ -171,7 +171,7 @@ $where = 'where 1';
 				$data['user_details'] = $this->common_model->fetch_data('customer_details',$where,$row);
 				//print_r($data['user_details']);die();
 				$config = Array(
-		           'protocol' => 'POP',
+		           'protocol' => 'smtp',
 		            'smtp_host' => 'outlook.office365.com',
 		            'smtp_port' => 995,
 		            'smtp_user' => 'partners@vvfltd.com',
@@ -242,7 +242,7 @@ $this->email->bcc('partners@vvfltd.com');
 				$data['user_details'] = $this->common_model->fetch_data('customer_details',$where,$row);
 				//print_r($data['user_details']);die();
 				$config = Array(
-		           'protocol' => 'POP',
+		           'protocol' => 'smtp',
 		            'smtp_host' => 'outlook.office365.com',
 		            'smtp_port' => 995,
 		            'smtp_user' => 'partners@vvfltd.com',
