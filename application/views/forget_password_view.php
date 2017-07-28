@@ -113,7 +113,7 @@ img.emoji {
                     <div class="row">
                         <div class="header">
                             <div class="col-md-3">
-                                <div class="logo"><img src="http://kritvainvestments.com/vendor/Logo.png"  style="width: 102px;height: 47px;margin-top: -19px;" /></div>
+                                <div class="logo"><img src="http://52.172.210.251/vendor/Logo.png"  style="width: 102px;height: 47px;margin-top: -19px;" /></div>
                                 <!--End Logo-->
                             </div>
                             <div class="col-md-9">

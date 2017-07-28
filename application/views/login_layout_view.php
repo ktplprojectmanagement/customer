@@ -278,7 +278,7 @@ img.emoji {
 <div id="registration_form">
             <div class="registration">
                 <h3>Vendor Portal</h3>
-                <img src="http://kritva.in/vendor/vendor-management.jpg">
+                <img src="http://52.172.210.251/vendor/vendor-management.jpg">
                 <form name="registration" id="reg_form" class="registrtaionForm" action="https://inkthemes.com/wptheme/salejunction-digitalitems/wp-login.php?action=register" method="post"  style="visibility: hidden;">
                     <div class="row">
                         <label for="user_login">Username<span class="required">*</span></label>
